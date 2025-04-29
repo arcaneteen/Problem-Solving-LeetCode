@@ -1,6 +1,6 @@
 class Solution {
     public int countSegments(String s) {
-        if(s==""){
+        if(s.trim()==""){
             return 0;
         }
         else{
