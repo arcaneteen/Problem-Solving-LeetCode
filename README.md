@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0075-sort-colors) |
 ## Math
@@ -48,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0075-sort-colors) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
