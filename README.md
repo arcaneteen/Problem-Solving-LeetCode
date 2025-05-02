@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0278-first-bad-version) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Interactive
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0136-single-number) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Math
 |  |
 | ------- |
@@ -49,10 +51,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0075-sort-colors) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0075-sort-colors) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Hash Table
 |  |
 | ------- |
