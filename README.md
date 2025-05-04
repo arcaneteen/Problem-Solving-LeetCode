@@ -87,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0463-island-perimeter) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
