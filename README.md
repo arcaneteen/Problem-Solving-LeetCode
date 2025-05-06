@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0066-plus-one) |
+| [0319-bulb-switcher](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0319-bulb-switcher) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Two Pointers
 |  |
@@ -97,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0014-longest-common-prefix) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
