@@ -8,7 +8,6 @@ class Solution {
             }
             n=num;
         }
-        if(n==1)  return true;
-        else  return false;
+        return n==1;
     }
 }
