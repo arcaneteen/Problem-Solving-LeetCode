@@ -11,8 +11,7 @@ class Solution {
                 stack.push(ch);
             }
         }
-        for(int j=stack.size();j>0;j--){
-           
+        while(!stack.isEmpty()){ 
             str.append(stack.pop());
         }
         return str.reverse().toString();
