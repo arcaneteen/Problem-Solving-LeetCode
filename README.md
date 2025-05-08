@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0014-longest-common-prefix) |
 | [0434-number-of-segments-in-a-string](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0434-number-of-segments-in-a-string) |
+| [3447-clear-digits](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/3447-clear-digits) |
 ## Binary Search
 |  |
 | ------- |
@@ -88,10 +89,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0682-baseball-game) |
+| [3447-clear-digits](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/3447-clear-digits) |
 ## Simulation
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0682-baseball-game) |
+| [3447-clear-digits](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/3447-clear-digits) |
 ## Matrix
 |  |
 | ------- |
