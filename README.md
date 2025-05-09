@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0136-single-number) |
 | [0463-island-perimeter](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0463-island-perimeter) |
 | [0682-baseball-game](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0682-baseball-game) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Math
 |  |
@@ -93,11 +94,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0682-baseball-game) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [3447-clear-digits](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/3447-clear-digits) |
 ## Simulation
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0682-baseball-game) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [3447-clear-digits](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/3447-clear-digits) |
 ## Matrix
 |  |
@@ -123,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0279-perfect-squares](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0279-perfect-squares) |
+## Queue
+|  |
+| ------- |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
