@@ -1,10 +1,9 @@
 class Solution {
     public boolean canJump(int[] nums) {
-        int reachable=0;
-        for(int i=0;i<nums.length;i++){
-            if(i>reachable) return false;//index khatm ,tata bye bye
-            reachable=Math.max(reachable,i+nums[i]);//max le lo
+        int goal=nums.length-1;
+        for(int i=nums.length-1;i>=0;i--){
+            if(i+nums[i]>=goal)  goal=i;
         }
-        return true;
+        return goal==0;
     }
 }
