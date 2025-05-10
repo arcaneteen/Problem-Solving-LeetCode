@@ -5,7 +5,7 @@ class Solution {
         for(int i=0;i<n;i++){
             pre=(pre==0?1:pre)*nums[i];//when 0 encountered product will reset
             post=(post==0?1:post)*nums[n-i-1];//taking last value and will go upto the 1st value
-            max=Math.max(max,(pre>post?pre:post));//storing the max value
+            max=Math.max(max,Math.max(pre,post));//storing the max value
         }
         return max;
     }
