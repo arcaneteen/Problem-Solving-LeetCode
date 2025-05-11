@@ -9,10 +9,15 @@ class Solution {
                 stack.push(c);
             }   
         }
-        StringBuilder str=new StringBuilder();
+        // StringBuilder str=new StringBuilder();
+        // while(!stack.isEmpty()){
+        //     str.append(stack.pop());
+        // }
+        // return str.reverse().toString();
+        String str="";
         while(!stack.isEmpty()){
-            str.append(stack.pop());
+            str=stack.pop()+str;
         }
-        return str.reverse().toString();
+        return str;
     }
 }
