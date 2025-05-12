@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0014-longest-common-prefix) |
+| [0125-valid-palindrome](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0125-valid-palindrome) |
 | [0434-number-of-segments-in-a-string](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0434-number-of-segments-in-a-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0202-happy-number) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Sorting
