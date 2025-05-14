@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0014-longest-common-prefix) |
+| [0058-length-of-last-word](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0125-valid-palindrome) |
 | [0434-number-of-segments-in-a-string](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0434-number-of-segments-in-a-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
