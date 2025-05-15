@@ -1,14 +1,19 @@
 class Solution {
     public String makeGood(String s) {
-        StringBuilder stack = new StringBuilder();
-        for (char c : s.toCharArray()) {
-            int len = stack.length();
-            if (len > 0 && Math.abs(stack.charAt(len - 1) - c) == 32) {
-                stack.deleteCharAt(len - 1); // remove last char (bad pair)
-            } else {
-                stack.append(c);
+        StringBuilder sb = new StringBuilder(s);
+        int i=0;
+        while(i<sb.length() - 1){
+            char currentChar = sb.charAt(i);
+            char nextChar = sb.charAt(i+1);
+            if(currentChar - nextChar == 32 || nextChar - currentChar == 32){
+                sb.delete(i,i+2);
+                if(i>0){
+                    i--;
+                }
+            }else{
+                i++;
             }
         }
-        return stack.toString();
+        return sb.toString();
     }
 }
