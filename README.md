@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0069-sqrtx) |
 | [0278-first-bad-version](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0263-ugly-number) |
 | [0279-perfect-squares](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0279-perfect-squares) |
