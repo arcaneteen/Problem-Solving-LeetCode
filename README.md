@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1666-make-the-string-great](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/1666-make-the-string-great) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1894-merge-strings-alternately](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/1894-merge-strings-alternately) |
+| [3019-furthest-point-from-origin](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/3019-furthest-point-from-origin) |
 | [3447-clear-digits](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/3447-clear-digits) |
 ## Binary Search
 |  |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0169-majority-element) |
+| [3019-furthest-point-from-origin](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/3019-furthest-point-from-origin) |
 ## Recursion
 |  |
 | ------- |
