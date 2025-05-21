@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0125-valid-palindrome) |
 | [0434-number-of-segments-in-a-string](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0434-number-of-segments-in-a-string) |
+| [0657-robot-return-to-origin](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0657-robot-return-to-origin) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1666-make-the-string-great](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/1666-make-the-string-great) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0682-baseball-game) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [3447-clear-digits](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/3447-clear-digits) |
