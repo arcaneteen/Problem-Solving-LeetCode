@@ -15,7 +15,6 @@ class Solution {
                 arr[1]-=1;
             }
         }
-        if(arr[0]==0&&arr[1]==0)  return true;
-        else return false;
+        return (arr[0]==0&&arr[1]==0);
     }
 }
