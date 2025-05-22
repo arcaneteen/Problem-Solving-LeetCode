@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0263-ugly-number) |
 | [0279-perfect-squares](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0279-perfect-squares) |
 | [0319-bulb-switcher](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0319-bulb-switcher) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0476-number-complement](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0476-number-complement) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -193,4 +195,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
