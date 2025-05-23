@@ -8,7 +8,6 @@ class Solution {
                 }
             else{System.out.println(t.charAt(i));}
         }
-        if(j==len) return true;
-        else return false;
+        return j==len;
     }
 }
