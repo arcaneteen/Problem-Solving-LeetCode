@@ -1,15 +1,14 @@
 class Solution {
     public boolean isSubsequence(String s, String t) {
-        int left = 0;  // Pointer for the "subsequence" string 's'
-        int right = 0; // Pointer for the "target" string 't'
-
-        while (left < s.length() && right < t.length()) {
-            if (s.charAt(left) == t.charAt(right)) { // Found a matching character! \U0001f389
-                left++; // Move to the next character in 's'
-            }
-            right++; // Always move to the next character in 't' ➡️
+        int len=s.length();int i,j;
+        for(i=0,j=0;i<t.length()&&j<len;i++){
+            if(s.charAt(j)==t.charAt(i))  {
+                j++;
+                // System.out.println(t.charAt(i));
+                }
+            else{System.out.println(t.charAt(i));}
         }
-
-        return left == s.length(); // If we've reached the end of 's', it's a subsequence! ✅
+        if(j==len) return true;
+        else return false;
     }
 }
