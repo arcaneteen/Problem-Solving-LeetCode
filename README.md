@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0169-majority-element) |
 | [0287-find-the-duplicate-number](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0334-increasing-triplet-subsequence](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0463-island-perimeter](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0463-island-perimeter) |
 | [0605-can-place-flowers](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0605-can-place-flowers) |
 | [0682-baseball-game](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0682-baseball-game) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0334-increasing-triplet-subsequence](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0605-can-place-flowers) |
 ## Bit Manipulation
 |  |
