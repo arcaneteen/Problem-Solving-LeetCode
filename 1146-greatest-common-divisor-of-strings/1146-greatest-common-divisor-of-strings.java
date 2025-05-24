@@ -8,8 +8,9 @@ class Solution {
     }
     int gcd(int a,int b){
         if(b==0) return a;
-        while(b!=0){
-            int r=a%b;
+        int r=1;
+        while(r!=0){
+            r=a%b;
             a=b;
             b=r;
         }
