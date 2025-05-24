@@ -19,6 +19,6 @@ class Solution {
             head.next.val=val1;
             head=head.next.next;
         }
-        return a;
+        return a;//as a is still pointing to the start of the linkedlist while head is somewhere in between ,but as they are sharing same reference ,value is changed
     }
 }
