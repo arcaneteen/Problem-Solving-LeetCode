@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1894-merge-strings-alternately](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/1894-merge-strings-alternately) |
 | [3019-furthest-point-from-origin](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/3019-furthest-point-from-origin) |
+| [3194-find-words-containing-character](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/3194-find-words-containing-character) |
 | [3447-clear-digits](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/3447-clear-digits) |
 ## Binary Search
 |  |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0682-baseball-game) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [3194-find-words-containing-character](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/3194-find-words-containing-character) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Math
 |  |
