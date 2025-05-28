@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0682-baseball-game) |
+| [1791-richest-customer-wealth](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3194-find-words-containing-character](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/3194-find-words-containing-character) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0048-rotate-image) |
 | [0463-island-perimeter](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0463-island-perimeter) |
+| [1791-richest-customer-wealth](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/1791-richest-customer-wealth) |
 ## Database
 |  |
 | ------- |
