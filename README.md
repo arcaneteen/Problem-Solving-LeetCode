@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3194-find-words-containing-character](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/3194-find-words-containing-character) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Math
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0169-majority-element) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Hash Table
 |  |
 | ------- |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0682-baseball-game) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3447-clear-digits](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/3447-clear-digits) |
 ## Matrix
 |  |
@@ -170,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0048-rotate-image) |
 | [0463-island-perimeter](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0463-island-perimeter) |
 | [1791-richest-customer-wealth](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/1791-richest-customer-wealth) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Database
 |  |
 | ------- |
@@ -226,4 +230,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0643-maximum-average-subarray-i) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2585-delete-greatest-value-in-each-row](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 <!---LeetCode Topics End-->
