@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0392-is-subsequence) |
 | [0434-number-of-segments-in-a-string](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0434-number-of-segments-in-a-string) |
+| [0443-string-compression](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0443-string-compression) |
 | [0657-robot-return-to-origin](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0657-robot-return-to-origin) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0443-string-compression) |
 | [1894-merge-strings-alternately](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Sorting
