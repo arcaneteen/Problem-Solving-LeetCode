@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0338-counting-bits) |
 | [0476-number-complement](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0476-number-complement) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Stack
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0279-perfect-squares](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0279-perfect-squares) |
+| [0338-counting-bits](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0392-is-subsequence) |
 ## Queue
 |  |
