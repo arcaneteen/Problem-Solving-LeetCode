@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0338-counting-bits) |
 | [0476-number-complement](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0476-number-complement) |
+| [1054-complement-of-base-10-integer](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/1054-complement-of-base-10-integer) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Stack
 |  |
