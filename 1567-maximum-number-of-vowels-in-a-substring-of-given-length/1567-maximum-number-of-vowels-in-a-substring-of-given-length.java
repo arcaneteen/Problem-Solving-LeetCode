@@ -1,6 +1,6 @@
 class Solution {
     public int maxVowels(String s, int k) {
-        s=s.toLowerCase();
+        // s=s.toLowerCase();
         int count=0,max=0;
         for(int i=0;i<s.length();i++){
             if(checkVowel(s.charAt(i))) count++;
@@ -13,7 +13,6 @@ class Solution {
         return max;
     }
     boolean checkVowel(char ch){
-        int cnt=0;
         return (ch=='a'||ch=='e'||ch=='i'||ch=='o'||ch=='u');
     }
 }
