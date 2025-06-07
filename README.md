@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0682-baseball-game) |
 | [1791-richest-customer-wealth](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [2195-time-needed-to-buy-tickets](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3194-find-words-containing-character](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/3194-find-words-containing-character) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0682-baseball-game) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [2195-time-needed-to-buy-tickets](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3447-clear-digits](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/3447-clear-digits) |
 ## Matrix
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [2195-time-needed-to-buy-tickets](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/2195-time-needed-to-buy-tickets) |
 ## Prefix Sum
 |  |
 | ------- |
