@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0169-majority-element) |
+| [0283-move-zeroes](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0463-island-perimeter](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0463-island-perimeter) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0443-string-compression) |
