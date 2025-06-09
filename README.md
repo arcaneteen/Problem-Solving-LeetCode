@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0055-jump-game) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0088-merge-sorted-array) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0042-trapping-rain-water) |
 | [0682-baseball-game](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0682-baseball-game) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1666-make-the-string-great](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/1666-make-the-string-great) |
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -269,4 +273,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2585-delete-greatest-value-in-each-row](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
