@@ -36,11 +36,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0278-first-bad-version](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0374-guess-number-higher-or-lower](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Interactive
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 ## Tree
 |  |
 | ------- |
