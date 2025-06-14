@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-greatest-common-divisor-of-strings](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2491-smallest-even-multiple](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/2491-smallest-even-multiple) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0605-can-place-flowers) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 ## Bit Manipulation
 |  |
 | ------- |
