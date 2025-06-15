@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0392-is-subsequence) |
 | [0434-number-of-segments-in-a-string](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0434-number-of-segments-in-a-string) |
 | [0443-string-compression](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0443-string-compression) |
+| [0459-repeated-substring-pattern](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0648-replace-words](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0648-replace-words) |
 | [0657-robot-return-to-origin](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0657-robot-return-to-origin) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -315,4 +316,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2491-smallest-even-multiple](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/2491-smallest-even-multiple) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
