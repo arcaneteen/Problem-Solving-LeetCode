@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0263-ugly-number) |
 | [0279-perfect-squares](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0279-perfect-squares) |
 | [0319-bulb-switcher](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0319-bulb-switcher) |
+| [0326-power-of-three](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/1013-fibonacci-number) |
 ## Linked List
 |  |
