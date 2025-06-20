@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0279-perfect-squares) |
 | [0319-bulb-switcher](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0342-power-of-four) |
 | [0476-number-complement](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0476-number-complement) |
 | [1054-complement-of-base-10-integer](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/1054-complement-of-base-10-integer) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/1013-fibonacci-number) |
 ## Linked List
 |  |
