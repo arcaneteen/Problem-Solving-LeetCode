@@ -1,13 +1,15 @@
 class Solution {
     public int fib(int n) {
-        if(n==0) return 0;
-        int a=0,b=1;
-        while(n>=1){
-            int c=a+b;
-            a=b;
-            b=c;
-            n--;
+        int[] memo=new int[n+1];
+        Arrays.fill(memo,-1);
+        return fibo(memo,n);
+    }
+    public int fibo(int[] memo,int n){
+        if(n<=1) return n;
+        if(memo[n]!=-1){
+            return memo[n];
         }
-        return a;
+        memo[n]=fibo(memo,n-1)+fibo(memo,n-2);
+        return memo[n];
     }
 }
