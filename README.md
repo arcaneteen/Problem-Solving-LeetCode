@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0066-plus-one) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0169-majority-element) |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
