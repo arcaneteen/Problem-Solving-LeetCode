@@ -1,4 +1,5 @@
 class Solution {
+    //memoization :top-down approach ,storing already calculated val
     public int fib(int n) {
         int[] memo=new int[n+1];
         Arrays.fill(memo,-1);
