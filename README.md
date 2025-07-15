@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0238-product-of-array-except-self](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0303-range-sum-query-immutable) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
