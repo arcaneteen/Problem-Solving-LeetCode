@@ -10,10 +10,11 @@ class Solution {
             return;
         }
         if(i==nums.length || target<0) return;
+        if(nums[i]<=target){
         ans.add(nums[i]);
-        // combination(nums,i+1,comb,ans,target-nums[i]);
         combination(nums,i,comb,ans,target-nums[i]);
         ans.remove(ans.size()-1);//giving last element index and removing it;
+        }
         combination(nums,i+1,comb,ans,target);
 
     }
