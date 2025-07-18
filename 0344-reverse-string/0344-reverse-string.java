@@ -1,12 +1,10 @@
 class Solution {
     public void reverseString(char[] s) {
-        List<Character> list = new ArrayList<>();
-        for (char c : s) {
-            list.add(c);
-        }
-        Collections.reverse(list);
-        for (int i = 0; i < s.length; i++) {
-            s[i] = list.get(i);
+        int l=s.length;
+        for(int i=0;i<l/2;i++){
+            char temp=s[i];
+            s[i]=s[l-i-1];
+            s[l-i-1]=temp;
         }
     }
 }
