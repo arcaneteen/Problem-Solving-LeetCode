@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0657-robot-return-to-origin) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1666-make-the-string-great](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/1666-make-the-string-great) |
