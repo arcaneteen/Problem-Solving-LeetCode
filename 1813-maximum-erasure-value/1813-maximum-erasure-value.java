@@ -1,21 +1,24 @@
-import java.util.HashSet;
-import java.util.Set;
 class Solution {
-  public int maximumUniqueSubarray(int[] nums) {
-    Set<Integer> seen = new HashSet<>();
-    int left = 0, currentSum = 0, maxSum = 0;
+    public int maximumUniqueSubarray(int[] nums) {
+        int ans = 0;
 
-    for (int right = 0; right < nums.length; right++) {
-      while (seen.contains(nums[right])) {
-        seen.remove(nums[left]);
-        currentSum -= nums[left];
-        left++;
-      }
-      seen.add(nums[right]);
-      currentSum += nums[right];
-      maxSum = Math.max(maxSum, currentSum);
+        int[] record = new int[10001];
+
+        int sum = 0;
+        int n = nums.length;
+        int left = 0;
+
+        for (int right = 0; right < n; right++) {
+            int cur = nums[right];
+            sum += cur;
+            record[cur]++;
+            while (record[cur] > 1) {
+                sum -= nums[left];
+                record[nums[left]]--;
+                left++;
+            }
+            ans = Math.max(ans, sum);
+        }
+        return ans;
     }
-
-    return maxSum;
-  }
 }
