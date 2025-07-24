@@ -10,13 +10,13 @@
  */
 class Solution {
     public ListNode middleNode(ListNode head) {
-        List<ListNode> list=new ArrayList<>();
+        List<ListNode> list=new LinkedList<>();
         ListNode t=head;
         while(t!=null){
             list.add(t);
-            t=t.next;
+            t=t.next;     
         }
-        int half=(int)list.size() /2;
+        int half=(int)list.size()/2;
         return list.get(half);
     }
 }
