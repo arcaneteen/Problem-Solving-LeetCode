@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2195-time-needed-to-buy-tickets](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3194-find-words-containing-character](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/3194-find-words-containing-character) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1894-merge-strings-alternately](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Sorting
 |  |
 | ------- |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0648-replace-words](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0648-replace-words) |
 | [1813-maximum-erasure-value](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/1813-maximum-erasure-value) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Greedy
 |  |
 | ------- |
