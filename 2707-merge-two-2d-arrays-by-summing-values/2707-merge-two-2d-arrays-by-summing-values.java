@@ -48,13 +48,6 @@ class Solution
             result.add(temp);
         }
 
-        // Step 5: Convert result to 2D array and return
-        int[][] tuples = new int[result.size()][2];
-        for (i = 0; i < tuples.length; i++) 
-        {
-            tuples[i] = result.get(i);
-        }
-
-        return tuples;
+       return result.toArray(new int[result.size()][]);
     }
 }
