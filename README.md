@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+| [0792-binary-search](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0792-binary-search) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Interactive
 |  |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0747-min-cost-climbing-stairs) |
+| [0792-binary-search](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0792-binary-search) |
 | [0948-sort-an-array](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/0948-sort-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/1791-richest-customer-wealth) |
