@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1813-maximum-erasure-value](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/1813-maximum-erasure-value) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2195-time-needed-to-buy-tickets](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-greatest-common-divisor-of-strings](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2491-smallest-even-multiple](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2491-smallest-even-multiple](https://github.com/arcaneteen/Problem-Solving-LeetCode/tree/master/2491-smallest-even-multiple) |
 ## String Matching
 |  |
